@@ -1,3 +1,5 @@
+![Profile Banner](https://github.com/Zuha-true/Zuha-Ruknuddin/blob/main/LinkedIn%20Banner2.png)
+
 <h1 align="center">Hi, I'm Zuha Ruknuddin</h1>
 <h3 align="center">An aspiring Full-Stack Developer from India</h3>
 
